@@ -7,7 +7,7 @@ O objetivo do exercício é encontrar o número mínimo de vértices necessário
 
 ## Enunciado
 
-[Link do Exercício](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/?envType=problem-list-v2&envId=graph)
+[Link do Exercício](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes)
 
 Dado um grafo direcionado com n vértices numerados de 0 a n-1 e uma lista de arestas edges onde cada aresta é representada por um par de inteiros [from, to], você deve encontrar o menor conjunto de vértices a partir do qual todos os outros vértices são alcançáveis.
 
@@ -40,8 +40,3 @@ edges = [[0,1], [0,2], [2,5], [3,4], [4,2]]
 
 ## Status da Resolução
 ![Solução Exercício 1](../Imagens/Exercicio1-Solucao.png)
-
-
-## Vídeo de Apresentação
-
--- Em desenvolvimento
