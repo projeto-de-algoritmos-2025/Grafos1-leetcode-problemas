@@ -28,5 +28,3 @@ edges = [[0,1],[0,2],[2,3],[2,4],[2,5]]
 
 ## Status da Resolução
 ![Solução Exercício 3](../Imagens/Exercicio3-Solucao.png)
-
-## Vídeo de Apresentação (Luan Mateus Cesar Duarte)

@@ -41,7 +41,3 @@ edges = [[0,1], [0,2], [2,5], [3,4], [4,2]]
 ## Status da Resolução
 ![Solução Exercício 1](../Imagens/Exercicio1-Solucao.png)
 
-## Vídeo de Apresentação (Luan Mateus Cesar Duarte)
-
-[Assista ao vídeo no YouTube](https://youtu.be/1Xlqmvx1MlI)
-
